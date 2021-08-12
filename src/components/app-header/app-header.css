@@ -1,0 +1,38 @@
+.app-header {
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.app-header h1 {
+  font-size: 26px;
+}
+
+.app-header h2 {
+  font-size: 1.2rem;
+  color: grey;
+}
+
+.btn:active {
+  background-color: rgb(141, 141, 255);
+}
+
+.mar-r.btn {
+  font-size: 20px;
+}
+
+.mar-l.btn {
+  font-size: 20px;
+}
+
+.mar-r {
+  margin-right: 5px;
+}
+
+.mar-l {
+  margin-left: 5px;
+}
+
+.size  {
+  width: 25px;
+  height: 25px
+}

@@ -1,0 +1,46 @@
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.app-list-img-lable {
+  margin-top: 3px;
+}
+
+.app-list-item {
+  font-size: 1.25rem;
+}
+
+.app-list-item button {
+  width: 35px;
+  height: 35px;
+  margin: 3px;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+.app-list-item button:focus {
+    box-shadow: none;
+    outline: none;
+}
+.app-list-item .btn-x-circle {
+    color: #000000;
+}
+
+.app-list-name {
+  font-size: 15px;
+  margin-right: 10px;
+}
+
+.app-list-time {
+  font-size: 15px;
+  color: rgb(194, 194, 194);
+}
+
+
+.app-list-item .btn-trash {
+    color: rgb(0, 0, 0);
+}
